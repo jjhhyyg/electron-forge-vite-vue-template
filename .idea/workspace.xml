@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a20d4693-c120-4e16-bbfa-c308d653cb56" name="Changes" comment="打包后的前端可以访问到后端端口，请求成功">
-      <change afterPath="$PROJECT_DIR$/src/server/Application.jar" afterDir="false" />
+    <list default="true" id="a20d4693-c120-4e16-bbfa-c308d653cb56" name="Changes" comment="前后端合并打包后，简单get请求成功，关闭程序后后端服务还存在">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.main.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/vite.main.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695384412738</updated>
-      <workItem from="1695384414510" duration="2422000" />
+      <workItem from="1695384414510" duration="5703000" />
     </task>
     <task id="LOCAL-00001" summary="打包后的前端可以访问到后端端口，请求成功">
       <option name="closed" value="true" />
@@ -93,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695385748659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="前后端合并打包后，简单get请求成功，关闭程序后后端服务还存在">
+      <option name="closed" value="true" />
+      <created>1695387063071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695387063071</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="打包后的前端可以访问到后端端口，请求成功" />
-    <option name="LAST_COMMIT_MESSAGE" value="打包后的前端可以访问到后端端口，请求成功" />
+    <MESSAGE value="前后端合并打包后，简单get请求成功，关闭程序后后端服务还存在" />
+    <option name="LAST_COMMIT_MESSAGE" value="前后端合并打包后，简单get请求成功，关闭程序后后端服务还存在" />
   </component>
 </project>
