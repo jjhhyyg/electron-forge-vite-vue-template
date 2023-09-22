@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a20d4693-c120-4e16-bbfa-c308d653cb56" name="Changes" comment="前后端合并打包后，简单get请求成功，关闭程序后后端服务还存在">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="a20d4693-c120-4e16-bbfa-c308d653cb56" name="Changes" comment="前后端合并打包后，简单get请求成功，后端服务在关闭程序后正常关闭" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695384412738</updated>
-      <workItem from="1695384414510" duration="5703000" />
+      <workItem from="1695384414510" duration="6343000" />
     </task>
     <task id="LOCAL-00001" summary="打包后的前端可以访问到后端端口，请求成功">
       <option name="closed" value="true" />
@@ -97,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695387063071</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="前后端合并打包后，简单get请求成功，后端服务在关闭程序后正常关闭">
+      <option name="closed" value="true" />
+      <created>1695390254676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695390254676</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="打包后的前端可以访问到后端端口，请求成功" />
     <MESSAGE value="前后端合并打包后，简单get请求成功，关闭程序后后端服务还存在" />
-    <option name="LAST_COMMIT_MESSAGE" value="前后端合并打包后，简单get请求成功，关闭程序后后端服务还存在" />
+    <MESSAGE value="前后端合并打包后，简单get请求成功，后端服务在关闭程序后正常关闭" />
+    <option name="LAST_COMMIT_MESSAGE" value="前后端合并打包后，简单get请求成功，后端服务在关闭程序后正常关闭" />
   </component>
 </project>
