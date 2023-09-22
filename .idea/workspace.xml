@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a20d4693-c120-4e16-bbfa-c308d653cb56" name="Changes" comment="">
+    <list default="true" id="a20d4693-c120-4e16-bbfa-c308d653cb56" name="Changes" comment="打包后的前端可以访问到后端端口，请求成功">
+      <change afterPath="$PROJECT_DIR$/src/server/Application.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.main.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/vite.main.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.renderer.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/vite.renderer.config.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +18,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jjhhyyg"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b170aab5-d95f-4fca-8d0a-44223ed2a8c0" />
+        <option name="url" value="https://github.com/jjhhyyg/electron-forge-vite-vue-template.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,10 +56,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "built-in-jar",
     "javascript.nodejs.core.library.configured.version": "16.20.2",
     "javascript.nodejs.core.library.typings.version": "16.18.53",
-    "last_opened_file_path": "F:/Project/Front_End",
+    "last_opened_file_path": "F:/Project/EvaluationSystem/electron-forge-vite-vue-template/src/server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +70,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Project\EvaluationSystem\electron-forge-vite-vue-template\src\server" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,11 +83,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695384412738</updated>
-      <workItem from="1695384414510" duration="1286000" />
+      <workItem from="1695384414510" duration="2422000" />
     </task>
+    <task id="LOCAL-00001" summary="打包后的前端可以访问到后端端口，请求成功">
+      <option name="closed" value="true" />
+      <created>1695385748659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695385748659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="打包后的前端可以访问到后端端口，请求成功" />
+    <option name="LAST_COMMIT_MESSAGE" value="打包后的前端可以访问到后端端口，请求成功" />
   </component>
 </project>
