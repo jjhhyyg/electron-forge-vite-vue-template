@@ -1,8 +1,7 @@
-const {app, BrowserWindow} = require('electron');
+const {app, BrowserWindow, session} = require('electron');
 const path = require('path');
 const {spawn} = require('child_process');
 const log = require('electron-log');
-const net = require('net');
 
 const isDevelopment = process.env.NODE_ENV !== 'production'
 // 后端主进程
@@ -34,19 +33,29 @@ const createWindow = () => {
 
     // Open the DevTools.
     if (isDevelopment) {
-        mainWindow.openDevTools()
+        mainWindow.webContents.openDevTools()
     }
 }
 
 // This method will be called when Electron has finished
 // initialization and is ready to create browser windows.
 // Some APIs can only be used after this event occurs.
+
+
 app.on('ready', () => {
     if (startServer()) {
+        if (isDevelopment) {
+            // 加载本地vue-devtools
+            const devtoolsPath = path.resolve('extensions', 'vue-devtools', '6.5.0_0')
+            session.defaultSession.loadExtension(devtoolsPath).then(
+                r => log.info('Vue Devtools loaded.')
+            ).catch(e => log.error(e))
+        }
         createWindow()
     } else {
         app.quit()
     }
+    log.info(`isDevelopment: ${process.env.NODE_ENV}`)
 })
 
 // Quit when all windows are closed, except on macOS. There, it's common

@@ -4,7 +4,132 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a20d4693-c120-4e16-bbfa-c308d653cb56" name="Changes" comment="前后端合并打包后，简单get请求成功，后端服务在关闭程序后正常关闭" />
+    <list default="true" id="a20d4693-c120-4e16-bbfa-c308d653cb56" name="Changes" comment="添加Element-Plus">
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/1569.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/1585.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/1593.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/1594.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/1649.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/1941.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2014.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2271.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2287.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2388.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2501.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2583.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2862.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2906.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/2906.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/300.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/3008.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/3315.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/3399.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/3504.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/3553.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/3673.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/3855.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/4035.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/4073.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/4454.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/4511.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/4558.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/4610.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/471.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/4858.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/4896.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/491.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5257.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/542.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5454.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5524.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5669.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5881.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5900.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5924.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5925.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5972.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/5974.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6022.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6162.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6175.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/622.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6223.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6330.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6331.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6354.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6373.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6751.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6792.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/6844.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/7125.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/7127.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/7135.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/7148.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/7447.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/7453.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/7483.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/7971.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/8147.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/8308.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/8309.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/8327.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/849.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/8654.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/8677.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/868.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/8947.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/9342.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/9491.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/9741.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/9953.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/CodeEditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/backend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/detector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/devtools-background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/devtools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/devtools.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/editor.worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/build/proxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/devtools-background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/devtools.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/128-beta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/128-gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/128.nuxt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/16-beta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/16-gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/16.nuxt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/48-beta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/48-gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/48.nuxt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/icons/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/popups/devtools-screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/popups/disabled.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/popups/disabled.nuxt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/popups/enabled.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/popups/enabled.nuxt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/popups/not-found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extensions/vue-devtools/6.5.0_0/popups/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/api/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/store/authStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Application.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/Application.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +165,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2VkeGj52z2v46RcRTM0Smri4kJx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +177,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "built-in-jar",
     "javascript.nodejs.core.library.configured.version": "16.20.2",
     "javascript.nodejs.core.library.typings.version": "16.18.53",
     "last_opened_file_path": "F:/Project/EvaluationSystem/electron-forge-vite-vue-template/src/server",
@@ -58,7 +186,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "ts.external.directory.path": "D:\\Program Files\\JetBrains\\Toolbox\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -66,7 +194,29 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Project\EvaluationSystem\electron-forge-vite-vue-template\src\server" />
+      <recent name="F:\Project\EvaluationSystem\electron-forge-vite-vue-template\extension" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Project\EvaluationSystem\electron-forge-vite-vue-template\extension\vue-devtools" />
+      <recent name="F:\Project\EvaluationSystem\electron-forge-vite-vue-template\extension\6.5.0_0" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -102,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695390254676</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加Element-Plus">
+      <option name="closed" value="true" />
+      <created>1695391747415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695391747415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +281,7 @@
     <MESSAGE value="打包后的前端可以访问到后端端口，请求成功" />
     <MESSAGE value="前后端合并打包后，简单get请求成功，关闭程序后后端服务还存在" />
     <MESSAGE value="前后端合并打包后，简单get请求成功，后端服务在关闭程序后正常关闭" />
-    <option name="LAST_COMMIT_MESSAGE" value="前后端合并打包后，简单get请求成功，后端服务在关闭程序后正常关闭" />
+    <MESSAGE value="添加Element-Plus" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加Element-Plus" />
   </component>
 </project>
